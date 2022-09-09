@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Week3-1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+    <string name="kronometre">Kronometre:</string>
+    <string name="restart">Restart</string>
+    <string name="chronometer">Chronometer</string>
 </resources>
